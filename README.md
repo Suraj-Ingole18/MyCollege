@@ -1,4 +1,4 @@
 # MyCollege
 This Is My First GitHub Repository.
 <br>
-Author Name-AzureLogic309.
+Author Name-Suraj-Ingole18.
